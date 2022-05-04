@@ -1,8 +1,17 @@
 # DataJournalismFinalProject
 # Final Project Data Journalism: Limited Starbucks Locations on California College Campuses 
 ### By: Williamena Kwapo
-## Data Analysis Process: 
-According to the 2018 dataset of Starbucks locations in the United States, California makes up 20.3% of all Starbucks locations, making it the state with the highest number of Starbucks in the US. 
+## Story Summary: 
+During the peak of the pandemic in North Carolina, Noah McMillan would wake up every morning, say good morning to his mother, then drive to starbucks to get them both a drink. His drink of choice was the mango dragon fruit lemonade with raspberry syrup and no ice. It became their daily tradition. 
+
+“When I developed that routine with my mom, that’s when it got a little bit unhealthy” said Noah
+
+Noah now cannot go a day without getting a starbucks drink in the morning. But he’s facing a problem keeping up with his routine. Since he moved to the California Bay Area to attend college at the University of California - Berkeley, Starbucks is not as accessible to him as it once was. 
+
+According to the 2018 dataset of Starbucks locations in the United States, California makes up 20.3% of all Starbucks locations, making it the state with the highest number of Starbucks in the US. California alone has 2,968 Starbucks stores with a high number of stores located in Los Angeles, San Diego, San Jose, and San Francisco. Though California is saturated with Starbucks, colleges and universities campuses severely lack Starbucks locations. Among California’s highest enrolled schools of 20,000 students or over, there aren’t many Starbucks locations within a 1.5 mile radius of each campus. University of California - Berkeley has the furthest distance from a starbucks with the nearest starbucks 12 mins walk away at 0.6 miles.
+
+How do UC Berkeley students get their daily fix of coffee? Do they care that there is not a starbucks nearby? Would having a starbucks near campus impact their campus daily routine?
+
 
 !['INlWb-map-of-starbucks-around-the-usa.png’ , ’US Map of Starbucks’](/INlWb-map-of-starbucks-around-the-usa.png)'
 
@@ -43,7 +52,7 @@ Using my 2018 dataset, I created a pivot table. I put "row" as state and "values
 
 2. How many Starbucks are located within 1.5 mile of CA college with 20k students or more?
 ### There are a totoal of 43 Starbucks located within 1.5 miles of the 19 CA college with 20k students or more
-I extracted data on the total enrollment of each CA schools. There were 19 schools with 20k students or more. I created a new dataset with those 19 schools and using google maps, located the starbucks within 1.5 mile of each school. Usuing a pivot table, I made "institution" row and "Starbucks within 1.5 mile radius institution" as value in 'SUM'
+I extracted data on the total enrollment of each CA schools. There were 19 schools with 20k students or more. I created a new dataset, made a new sheet in [2018 Dataset](starbucks_2018_11_12.xlsx) with those 19 schools and using google maps, located the starbucks within 1.5 mile of each school. Usuing a pivot table, I made "institution" row and "Starbucks within 1.5 mile radius institution" as value in 'SUM'
 
 !['1.5milesaway.png , ’California City with most Starbucks’](/1.5milesaway.png)’
 
