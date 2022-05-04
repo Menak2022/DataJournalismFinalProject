@@ -37,4 +37,6 @@ Though California is saturated with Starbucks, colleges and universities campuse
 #### The most Starbucks is located in the city of Los Angelos. 
 Using my 2018 dataset, I created a pivot table. I put "row" as state and "values" as names in "COUNTA". I then sorted row by "COUNTA of names" in decending order to get the city with the highest number of Starbucks location.
 
+!['Citywithmoststarbucks.png’ , ’California City with most Starbucks’](/citywithmoststarbucks.png)’
+
 !['9ez4e-starbucks-locations-in-california-as-of-2018.png’ , ’California Map of Starbucks’](/9ez4e-starbucks-locations-in-california-as-of-2018.png)’ 
