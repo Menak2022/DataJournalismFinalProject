@@ -32,4 +32,9 @@ Though California is saturated with Starbucks, colleges and universities campuse
 3. Which college has the highest starbucks location within 1 mile of campus?
 4. What’s the walking distance from the campus of CA college with 20k students or more by miles and minutes. 
 5. Which college has the furthest walking distance?
+## Analysis
+1.  Where in CA is the most Starbucks located?
+The most Starbucks is located in the city of Los Angelos
+Using my 2018 dataset, I created a pivot table. I put "row" as state and "values" as names in "COUNTA". I then sorted row by "COUNTA of names" in decending order to get the city with the highest number of Starbucks location.
 
+!['9ez4e-starbucks-locations-in-california-as-of-2018.png’ , ’California Map of Starbucks’](/9ez4e-starbucks-locations-in-california-as-of-2018.png)’ 
