@@ -29,8 +29,8 @@ Though California is saturated with Starbucks, colleges and universities campuse
 ## Scope of Analysis
 1. Where in CA is the most Starbucks located?
 2. How many Starbucks are located within 1.5 mile of CA college with 20k students or more?
-3. Which college has the highest starbucks location within 1 mile of campus?
-4. What’s the walking distance from the campus of CA college with 20k students or more by miles and minutes. 
+3. Which college has the most starbucks location within 1.5 mile of campus?
+4. Which institution has the closest starbucks location in walking distance? 
 5. Which college has the furthest walking distance?
 ## Analysis
 1.  Where in CA is the most Starbucks located?
@@ -43,4 +43,13 @@ Using my 2018 dataset, I created a pivot table. I put "row" as state and "values
 
 2. How many Starbucks are located within 1.5 mile of CA college with 20k students or more?
 ### There are a totoal of 43 Starbucks located within 1.5 miles of the 19 CA college with 20k students or more
-I extracted data on the total enrollment of each CA schools. There were 19 schools with 20k students or more. I created a new dataset with those 19 schools and using google maps, located the starbucks within 1.5 mile of each school.
+I extracted data on the total enrollment of each CA schools. There were 19 schools with 20k students or more. I created a new dataset with those 19 schools and using google maps, located the starbucks within 1.5 mile of each school. Usuing a pivot table, I made "institution" row and "Starbucks within 1.5 mile radius institution" as value in 'SUM'
+
+!['1.5milesaway.png , ’California City with most Starbucks’](/1.5milesaway.png)’
+
+3. Which college has the most starbucks location within 1.5 mile of campus?
+### University of Southern California has the most Starbucks location within 1.5 mile of campus with a total of 8 locations
+By putting the pivot table from question #2 in ascending order by "Sum of Stabucks in 1.5 mile radius institution", you can see that USC has a total of 8 starbucks within 1,5 miles of campus
+
+4. Which institution has the closest starbucks location in walking distance? 
+### On average, students walk is San Diego State University
