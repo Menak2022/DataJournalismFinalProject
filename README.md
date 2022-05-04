@@ -2,8 +2,9 @@
 # Final Project Data Journalism: Limited Starbucks Locations on California College Campuses 
 ### By: Williamena Kwapo
 ## Data Analysis Process: 
-According to the 2018 dataset of Starbucks locations in the United States, California makes up__ percent of all Starbucks locations, making it the state with the highest number of Starbucks in the US. 
-(Chloapath map of starbucks locations in US with CA showing greates)
+According to the 2018 dataset of Starbucks locations in the United States, California makes up 20.3% of all Starbucks locations, making it the state with the highest number of Starbucks in the US. 
+
+!['INlWb-map-of-starbucks-around-the-usa.png’ , ’US Map of Starbucks’](/INlWb-map-of-starbucks-around-the-usa.png)'
 
 Though California is saturated with Starbucks, colleges and universities campuses severely lack Starbucks locations. With this dataset, I decided to look at California Universities with 20,000 students or more to find out the closest Starbucks location to each campus. Using google maps, I located Starbucks that are in a 1 mile radius of 19 schools, finding that UC Berkeley has the longest distance to the nearest Starbucks location. The 19 schools analyzed are the following: 
 1. University of Southern California
@@ -31,3 +32,4 @@ Though California is saturated with Starbucks, colleges and universities campuse
 3. Which college has the highest starbucks location within 1 mile of campus?
 4. What’s the walking distance from the campus of CA college with 20k students or more by miles and minutes. 
 5. Which college has the furthest walking distance?
+
