@@ -53,3 +53,23 @@ By putting the pivot table from question #2 in ascending order by "Sum of Stabuc
 
 4. Which institution has the closest starbucks location in walking distance? 
 ### On average, students walk is San Diego State University
+Using the pivot table in question 2 and 3, I made "rows" as institution, and vlaues as "nearest SB Name" and summarized that by "COUNTA". I also kept "walking distance from insitution" in values and summarized that by 'SUM". That way, I was able to see that San Diego State University has 1 starbucks that is a 0mins walk away. 
+
+!['campuswithcloseststarbucks.png’ , ’California City with most Starbucks’](/campuswithcloseststarbucks.png)’
+
+5. Which college has the furthest walking distance?
+### University of California - Berkeley has the furtherest distance from a starbucks with the nearest starbucks 12 mins walk away at 0.6 miles
+Using the pivot table in question 2 and 3, I made "rows" as institution, and vlaues as "nearest SB Name" and summarized that by "COUNTA". I also kept "walking distance from insitution" in values and summarized that by 'SUM". That way, I was able to see that University of California - Berkeley has the nearest starbucks at 12 mins walk away. 
+
+!['campuswithcloseststarbucks.png’ , ’California City with most Starbucks’](/campuswithcloseststarbucks.png)’
+
+## Story Sourcing - Who I Would Contact
+I would want to know if the far distance to the nearest Starbucks at UC Berkeley is impacting students, falculty, or staff in any way
+> Noah McMillan
+> noah.mcmillan@berkeley.edu
+
+> Pamela Estrada
+> pamelastrda@berkeley.edu
+
+> Myah Overstreet
+> myah_overstreet@berkeley.edu
