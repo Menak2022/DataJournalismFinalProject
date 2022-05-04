@@ -28,7 +28,7 @@ Though California is saturated with Starbucks, colleges and universities campuse
 19. California Polytechnic State University-San Luis Obispo
 ## Scope of Analysis
 1. Where in CA is the most Starbucks located?
-2. How many are located within 1 mile of CA college with 20k students or more?
+2. How many Starbucks are located within 1.5 mile of CA college with 20k students or more?
 3. Which college has the highest starbucks location within 1 mile of campus?
 4. What’s the walking distance from the campus of CA college with 20k students or more by miles and minutes. 
 5. Which college has the furthest walking distance?
@@ -40,3 +40,7 @@ Using my 2018 dataset, I created a pivot table. I put "row" as state and "values
 !['Citywithmoststarbucks.png’ , ’California City with most Starbucks’](/citywithmoststarbucks.png)’
 
 !['9ez4e-starbucks-locations-in-california-as-of-2018.png’ , ’California Map of Starbucks’](/9ez4e-starbucks-locations-in-california-as-of-2018.png)’ 
+
+2. How many Starbucks are located within 1.5 mile of CA college with 20k students or more?
+### There are a totoal of 43 Starbucks located within 1.5 miles of the 19 CA college with 20k students or more
+I extracted data on the total enrollment of each CA schools. There were 19 schools with 20k students or more. I created a new dataset with those 19 schools and using google maps, located the starbucks within 1.5 mile of each school.
