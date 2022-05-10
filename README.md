@@ -83,4 +83,4 @@ I would want to know if the far distance to the nearest Starbucks at UC Berkeley
 > Myah Overstreet
 > myah_overstreet@berkeley.edu
 
-## Read Final Story Here
+## [Read Final Story Here](Starbucks (1).pdf)
